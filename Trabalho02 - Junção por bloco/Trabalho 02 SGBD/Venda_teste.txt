@@ -1,0 +1,37 @@
+0,1,Uva,7
+1,2,Talco,13
+2,7535,Batata palha,10
+3,4120,Fixador,7
+4,704,Repolho,7
+5,3741,Adoçante,8
+6,7720,Batata,12
+7,8547,Água sanitária,2
+8,580,Fósforo,2
+9,4466,Rum,7
+10,1861,Leite de coco,17
+11,4074,Repolho,6
+12,4284,Azeitona,7
+13,3422,Peito de peru,15
+14,6436,Desinfetante,1
+15,3734,Milho,14
+16,1322,Peito de peru,6
+17,7231,Uísque,6
+18,5119,Champanhe,8
+19,9140,Champignon,19
+20,6102,Vinho,3
+21,6795,Farinha de rosca,5
+22,8252,Vagem,13
+23,4903,Alvejante,11
+24,6443,Purificador de ambientes,16
+25,8775,Pano de limpeza,8
+26,7361,Abobrinha,8
+27,1242,Ovos,3
+28,3178,Vagem,16
+29,5336,Caldo,15
+30,2001,Pano de prato,2
+31,879,Pimentão,9
+32,872,Pães,1
+33,1179,Cenoura,15
+34,9222,Achocolatado,2
+35,2561,Banana,4
+36,4154,Cerveja,11
